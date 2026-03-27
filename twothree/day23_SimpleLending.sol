@@ -191,3 +191,4 @@ contract SimpleLending {
         //查询：平台里一共有多少钱
         return address(this).balance;
     }
+}
